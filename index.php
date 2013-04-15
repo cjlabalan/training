@@ -1,3 +1,4 @@
 <?php
-echo "first commited file";
+echo "First commited file";
+echo "Second commit";
 ?>
