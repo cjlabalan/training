@@ -1,5 +1,7 @@
 <?php
-for($x=0;$x<5;$x++){
-    echo $x."\n";
-}
+$array = array(1, 2, 3, 4, 5);
+
+echo count($array)."\n";
+echo sizeof($array);
+
 ?>
